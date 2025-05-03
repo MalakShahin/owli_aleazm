@@ -42,7 +42,7 @@ lib/
 
 ---
 
-"C:\Users\malak\OneDrive\Desktop\owli_aleazm.jpg"
+
 
 # Contact
 - Email: malak2004eslam@gmail.com
